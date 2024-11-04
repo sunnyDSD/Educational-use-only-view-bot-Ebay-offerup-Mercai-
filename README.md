@@ -14,5 +14,5 @@ This project is a Discord bot that enables users to increase the view count on e
 Ensure you have Python 3.8+ installed. Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
-
-
+```
+#run main.py once setup complete
